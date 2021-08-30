@@ -19,5 +19,5 @@ specialBonus = 0.6;
 
 Тестирование производилось в следующем окружении:
 * <Windows 7 64 bit>
-* <Java 11>
+* <Eclipse Temurin JDK with Hotspot 11.0.12+7 (x64)>
 * <IntelliJIdea 2021.2>
